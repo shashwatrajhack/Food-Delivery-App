@@ -40,3 +40,8 @@
     margin: auto;
     width: 100%;
 }
+
+.filter-btn{
+    padding: 10px;
+    cursor: pointer;
+}
