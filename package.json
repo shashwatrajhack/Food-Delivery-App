@@ -2,7 +2,6 @@
   "name": "namastedev-project",
   "version": "1.0.0",
   "description": "Food_delivery-app",
-  
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -13,6 +12,7 @@
   "dependencies": {
     "parcel": "^2.15.4",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.7.1"
   }
 }
