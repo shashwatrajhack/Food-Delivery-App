@@ -4,6 +4,7 @@ import ReactDOM from "react-dom/client";
 
 import Body from "./components/Body";
 import Header from "./components/Header";
+import { BrowserRouter, createBrowserRouter } from "react-router-dom";
 
 
 const AppLayOut = () => {
@@ -14,6 +15,20 @@ const AppLayOut = () => {
     </div>
   );
 };
+
+//Routing Configuration
+//Configuration is the list of Objects
+
+const appRouter = createBrowserRouter([
+  {
+    path:"/",
+    element:<AppLayOut />
+  },
+  {
+    path:"/about",
+    element:<About />
+  }
+])
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
