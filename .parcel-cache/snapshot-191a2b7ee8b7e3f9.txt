@@ -1,4 +1,4 @@
-3687
+3694
 67D:\NamasteDev-Project\node_modules\lmdb\dependencies\lmdb\libraries133973108563941161 1
 41D:\NamasteDev-Project\node_modules\@lezer133973108546518227 1
 34D:\NamasteDev-Project\package.json133980033992824866 0
@@ -23,7 +23,7 @@
 43D:\NamasteDev-Project\node_modules\escalade133973108570830767 1
 66D:\NamasteDev-Project\node_modules\weak-lru-cache\rollup.config.js133973108565776355 0
 63D:\NamasteDev-Project\node_modules\@parcel\transformer-json\lib133973108556985691 1
-26D:\NamasteDev-Project\dist133982639142920773 1
+26D:\NamasteDev-Project\dist133982653466837076 1
 59D:\NamasteDev-Project\node_modules\ansi-styles\package.json133973108559787562 0
 66D:\NamasteDev-Project\node_modules\caniuse-lite\data\regions\MO.js133973108625542675 0
 62D:\NamasteDev-Project\node_modules\@parcel\logger\package.json133973108565976409 0
@@ -90,7 +90,7 @@
 82D:\NamasteDev-Project\node_modules\@parcel\transformer-posthtml\lib\loadPlugins.js133973108558297541 0
 64D:\NamasteDev-Project\node_modules\react-router-dom\package.json133980033974098328 0
 77D:\NamasteDev-Project\node_modules\@parcel\profiler\lib\SamplingProfiler.d.ts133973108574703441 0
-35D:\NamasteDev-Project\src\Script.js133982639134937750 0
+35D:\NamasteDev-Project\src\Script.js133982653129841307 0
 81D:\NamasteDev-Project\node_modules\caniuse-lite\data\features\css-revert-value.js133973108616062951 0
 52D:\NamasteDev-Project\node_modules\lmdb\package.json133973108602027891 0
 51D:\NamasteDev-Project\node_modules\lmdb\index.d.cts133973108593977026 0
@@ -108,7 +108,7 @@
 69D:\NamasteDev-Project\node_modules\msgpackr\dist\index-no-eval.min.js133973108574180866 0
 66D:\NamasteDev-Project\node_modules\caniuse-lite\data\regions\ST.js133973108628379894 0
 63D:\NamasteDev-Project\node_modules\@parcel\workers\src\types.js133973108583019805 0
-45D:\NamasteDev-Project\src\components\About.js133979969205532736 0
+45D:\NamasteDev-Project\src\components\About.js133982652295936417 0
 61D:\NamasteDev-Project\node_modules\color-convert\package.json133973108553390442 0
 39D:\NamasteDev-Project\node_modules\@swc133982574440493096 1
 52D:\NamasteDev-Project\node_modules\caniuse-lite\dist133973108628379894 1
@@ -2053,7 +2053,7 @@
 66D:\NamasteDev-Project\node_modules\caniuse-lite\data\regions\UY.js133973108628759904 0
 62D:\NamasteDev-Project\node_modules\@parcel\transformer-svg\lib133973108556985691 1
 59D:\NamasteDev-Project\node_modules\@swc\helpers\_\_defaults133973108614667803 1
-61D:\NamasteDev-Project\dist\NamasteDev-Project.e4d042aa.js.map133982639142910754 0
+61D:\NamasteDev-Project\dist\NamasteDev-Project.e4d042aa.js.map133982653466817250 0
 63D:\NamasteDev-Project\node_modules\@parcel\utils\src\urlJoin.js133973108592678486 0
 66D:\NamasteDev-Project\node_modules\caniuse-lite\data\regions\VA.js133973108628779908 0
 89D:\NamasteDev-Project\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133973108625462559 0
@@ -2765,7 +2765,7 @@
 83D:\NamasteDev-Project\node_modules\@swc\helpers\src\_ts_add_disposable_resource.mjs133973108622276270 0
 68D:\NamasteDev-Project\node_modules\@swc\helpers\src\_ts_decorate.mjs133973108622276270 0
 69D:\NamasteDev-Project\node_modules\@swc\helpers\src\_ts_generator.mjs133973108622296271 0
-57D:\NamasteDev-Project\dist\NamasteDev-Project.e4d042aa.js133982639142820731 0
+57D:\NamasteDev-Project\dist\NamasteDev-Project.e4d042aa.js133982653466706990 0
 68D:\NamasteDev-Project\node_modules\@swc\helpers\src\_ts_metadata.mjs133973108622306288 0
 65D:\NamasteDev-Project\node_modules\@swc\helpers\src\_ts_param.mjs133973108622306288 0
 66D:\NamasteDev-Project\node_modules\@swc\helpers\src\_ts_values.mjs133973108622316280 0
@@ -3263,7 +3263,7 @@
 111D:\NamasteDev-Project\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node133973108594003084 0
 71D:\NamasteDev-Project\node_modules\@parcel\source-map\dist\node.js.flow133973108553722189 0
 71D:\NamasteDev-Project\node_modules\@parcel\source-map\dist\SourceMap.js133973108574703441 0
-37D:\NamasteDev-Project\dist\index.html133982639125331543 0
+37D:\NamasteDev-Project\dist\index.html133982651589372725 0
 80D:\NamasteDev-Project\node_modules\@parcel\packager-js\src\GlobalOutputFormat.js133973108572616631 0
 76D:\NamasteDev-Project\node_modules\@parcel\source-map\dist\SourceMap.js.flow133973108559677541 0
 103D:\NamasteDev-Project\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json133973108616042940 0
@@ -3684,5 +3684,12 @@
 46D:\NamasteDev-Project\node_modules\.bin\semver133973108631237876 0
 50D:\NamasteDev-Project\node_modules\.bin\semver.cmd133973108631237876 0
 50D:\NamasteDev-Project\node_modules\.bin\semver.ps1133973108631237876 0
-58D:\NamasteDev-Project\dist\NamasteDev-Project.3a01df49.css133982639141920719 0
-62D:\NamasteDev-Project\dist\NamasteDev-Project.3a01df49.css.map133982639141980713 0
+44D:\NamasteDev-Project\dist\About.55328834.js133982653465890050 0
+48D:\NamasteDev-Project\dist\About.55328834.js.map133982653465950021 0
+43D:\NamasteDev-Project\dist\Body.5b2b6e2c.js133982651249254443 0
+47D:\NamasteDev-Project\dist\Body.5b2b6e2c.js.map133982651249324477 0
+46D:\NamasteDev-Project\dist\Grocery.390591cb.js133982653465890050 0
+50D:\NamasteDev-Project\dist\Grocery.390591cb.js.map133982653465950021 0
+59D:\NamasteDev-Project\dist\Grocery.390591cb.js.map.23344.3i133982652616464666 0
+58D:\NamasteDev-Project\dist\NamasteDev-Project.3a01df49.css133982652616384643 0
+62D:\NamasteDev-Project\dist\NamasteDev-Project.3a01df49.css.map133982652421445498 0
