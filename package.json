@@ -4,8 +4,8 @@
   "homepage": "https://shashwatrajhack.github.io/Food-Delivery-App",
   "description": "Food_delivery-app",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "npx parcel build index.html --dist-dir build",
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html --dist-dir build --public-url ./",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "jest"
