@@ -1,0 +1,2 @@
+var e=globalThis.parcelRequire9e2a;(0,e.register)("h0EEC",function(r,t){Object.defineProperty(r.exports,"__esModule",{value:!0,configurable:!0}),Object.defineProperty(r.exports,"default",{get:()=>n,set:void 0,enumerable:!0,configurable:!0});var i=e("ayMG0"),n=function(){return(0,i.jsx)(i.Fragment,{children:(0,i.jsx)("h1",{children:"Hello this is about section"})})}});
+//# sourceMappingURL=About.66f7691e.js.map
