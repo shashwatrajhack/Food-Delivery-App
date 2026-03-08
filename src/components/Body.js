@@ -1,4 +1,4 @@
-import RestaurantCard from "./Restaurantcard";
+import RestaurantCard from "./RestaurantCard";
 import { useEffect, useState } from "react";
 import useOnlineStatus from "../utils/useOnlineStatus";
 
